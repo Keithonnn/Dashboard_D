@@ -1,1 +1,1 @@
-web: panel serve --address="0.0.0.0" --port=$PORT Capstone_Final.ipynb --allow-websocket-origin=aadashboardd.herokuapp.com
+web: bokeh serve — port=$PORT — allow-websocket-origin=aadashboardd.herokuapp.com — address=0.0.0.0 — use-xheaders Capstone_Final.py
