@@ -1,4 +1,3 @@
 pandas
-opencv
 panel
 numpy
