@@ -1,1 +1,1 @@
-worker: python Capstone_Final.ipynb
+worker: python Capstone_Final.py
