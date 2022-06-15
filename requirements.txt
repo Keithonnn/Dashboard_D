@@ -2,3 +2,4 @@ pandas
 panel
 numpy
 jupyter
+jupyter_bokeh
